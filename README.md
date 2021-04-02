@@ -7,11 +7,11 @@ Setup procedures:
 3) Select your ROS version (just under top tabs of the webpage) and follow the procedure
 4) Make sure to have all dependent packages installed (PC Setup link in 6.1.1)
 5) Restart PC
-6) export TURTLEBOT3_MODEL=burger or export TURTLEBOT3_MODEL=waffle
-6) source devel/setup.bash
-7) roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch
-8) rosrun rviz rviz
-9) add topics
+6) Select turtlebot model, from command lines: export TURTLEBOT3_MODEL=waffle (this model has a camera)
+6) From command lines: source devel/setup.bash
+7) From command lines: roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch
+8) From command lines: rosrun rviz rviz
+9) From rviz: add topics (+ symbol) -> image -> depth
 
 
 -----------------------
