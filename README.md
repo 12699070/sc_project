@@ -17,12 +17,12 @@ Setup procedures:
 -----------------------
 
 ROS notes:  
-rzviz: https://www.youtube.com/watch?v=jQ0DPzjmdz4&t=598s (9:27)
-
+rzviz: https://www.youtube.com/watch?v=jQ0DPzjmdz4&t=598s (9:27)  
+  
 check msg type: rosmsg show topic_name
 
-TOPIC: http://wiki.ros.org/rostopic
-Display messages published to a topic: rostopic echo /topic_name
+TOPIC: http://wiki.ros.org/rostopic  
+Display messages published to a topic: rostopic echo /topic_name  
 
 
 -----------------------
