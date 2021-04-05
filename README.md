@@ -27,10 +27,7 @@ Display messages published to a topic: rostopic echo /topic_name
 
 -----------------------
 OpenCV
-cv_bridge setup: http://wiki.ros.org/cv_bridge
-cv_bridge tutorial: http://wiki.ros.org/cv_bridge/Tutorials
-
-Line follower http://edu.gaitech.hk/turtlebot/line-follower.html
+cv_bridge tutorial:  http://wiki.ros.org/cv_bridge/Tutorials  
 
 
 -----------------------
