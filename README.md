@@ -18,3 +18,31 @@ Setup procedures:
 
 ROS notes:
 rzviz: https://www.youtube.com/watch?v=jQ0DPzjmdz4&t=598s (9:27)
+
+check msg type: rosmsg show topic_name
+
+TOPIC: http://wiki.ros.org/rostopic
+Display messages published to a topic: rostopic echo /topic_name
+
+
+-----------------------
+OpenCV
+cv_bridge setup: http://wiki.ros.org/cv_bridge
+cv_bridge tutorial: http://wiki.ros.org/cv_bridge/Tutorials
+
+Line follower http://edu.gaitech.hk/turtlebot/line-follower.html
+
+
+-----------------------
+Tasks
+
+IMAGE PROCESSING:
+_Convert depth info to depth map
+_Depth map to openCV for corner detection
+_Calculate orientation and distance
+
+CONTROL:
+
+
+
+
