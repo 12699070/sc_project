@@ -16,7 +16,7 @@ Setup procedures:
 
 -----------------------
 
-ROS notes:
+ROS notes:  
 rzviz: https://www.youtube.com/watch?v=jQ0DPzjmdz4&t=598s (9:27)
 
 check msg type: rosmsg show topic_name
@@ -36,10 +36,10 @@ Line follower http://edu.gaitech.hk/turtlebot/line-follower.html
 -----------------------
 Tasks
 
-IMAGE PROCESSING:
-_Convert depth info to depth map
-_Depth map to openCV for corner detection
-_Calculate orientation and distance
+IMAGE PROCESSING:  
+_Convert depth info to depth map  
+_Depth map to openCV for corner detection  
+_Calculate orientation and distance  
 
 CONTROL:
 
