@@ -1,6 +1,6 @@
 <?xml version='1.0'?>
 <sdf version='1.7'>
-  <model name='red_square'>
+  <model name='blue_square'>
     <link name='link_1'>
       <inertial>
         <mass>1</mass>
@@ -16,7 +16,7 @@
       </inertial>
       <pose>0 0 0 0 -0 0</pose>
       <gravity>1</gravity>
-      <self_collide>0</self_collide>
+      <self_collide>1</self_collide>
       <kinematic>0</kinematic>
       <enable_wind>0</enable_wind>
       <visual name='visual'>
@@ -35,10 +35,10 @@
           <shader type='pixel'>
             <normal_map>__default__</normal_map>
           </shader>
-          <ambient>1 0 0 0</ambient>
-          <diffuse>1 0 0 1</diffuse>
-          <specular>1 0.01 0.01 1</specular>
-          <emissive>1 0 0 1</emissive>
+          <ambient>0 0 1 1</ambient>
+          <diffuse>0 0 1 1</diffuse>
+          <specular>0 0 1 1</specular>
+          <emissive>0 0 1 1</emissive>
         </material>
         <transparency>0</transparency>
         <cast_shadows>1</cast_shadows>
@@ -100,6 +100,6 @@
       </collision>
     </link>
     <static>1</static>
-    <allow_auto_disable>1</allow_auto_disable>
+    <allow_auto_disable>0</allow_auto_disable>
   </model>
 </sdf>
