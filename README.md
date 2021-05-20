@@ -1,20 +1,26 @@
 # Turtlebot following a straight line by observing a marker
 Group project of the subject 41014 Sensors and Control for Mechatronic Systems at UTS  
 <!-- CONTRIBUTORS -->
-asd
+## Contributors
+Group 6:  
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
 
 <!-- GETTING STARTED -->
+## Getting Started
 
-
-asd
-
-<!-- CODE DESCRIPTION -->
-
-asd
 
 
 <!-- CODE DESCRIPTION -->
+## Code description
 
+
+
+<!-- CODE DESCRIPTION -->
+## Code description
 
 
 
