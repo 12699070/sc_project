@@ -78,3 +78,8 @@ not detected). Thus, prevent the Turtlebot from moving uncontrollably.
 * []() Camera parameters are critical to ensure correct boundary for the marker is applied onto the image. User 
 is expected to input correct width and height of the camera pixel size if they plan to not use the RealSense R200.
 
+<!-- DEMO VIDEO -->
+## Demo Video
+**NOTE: Video available on GitHub page only (submitted to Dr. Liang separately by Sulaiman via email)
+https://user-images.githubusercontent.com/41610114/118977936-11493c80-b9ba-11eb-8671-2afa00271d19.mp4
+
