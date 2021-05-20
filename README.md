@@ -13,7 +13,7 @@ Group project of the subject 41014 Sensors and Control for Mechatronic Systems a
 <!-- STAGE SETUP -->
 ## Stage Setup
 **NOTE: Image available on GitHub page only
-
+![Untitled](https://user-images.githubusercontent.com/41610114/118976894-e6aab400-b9b8-11eb-8844-5da6599596ed.png)
 
 <!-- GETTING STARTED -->
 ## Getting Started
