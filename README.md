@@ -12,7 +12,7 @@ Group project of the subject 41014 Sensors and Control for Mechatronic Systems a
 
 <!-- STAGE SETUP -->
 ## Stage Setup
-**NOTE: Image may available on GitHub page only
+**NOTE: Image may be available on GitHub page only
 ![Untitled](https://user-images.githubusercontent.com/41610114/118976894-e6aab400-b9b8-11eb-8844-5da6599596ed.png)
 
 <!-- GETTING STARTED -->
@@ -80,6 +80,6 @@ is expected to input correct width and height of the camera pixel size if they p
 
 <!-- DEMO VIDEO -->
 ## Demo Video
-**NOTE: Video may available on GitHub page only (submitted to Dr. Liang separately by Sulaiman via email)  
+**NOTE: Video may be available on GitHub page only (submitted to Dr. Liang separately by Sulaiman via email)  
 https://user-images.githubusercontent.com/41610114/118977936-11493c80-b9ba-11eb-8671-2afa00271d19.mp4
 
