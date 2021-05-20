@@ -32,11 +32,13 @@ Other variables are grouped under different region names such as Camera paramete
 and thresholds (i.e., transition, stop distances & boundary widths).  
 
 **NOTE: Modifying variables under "Fixed" region is ill-advised as the entire code was developed heavily 
-reliant on these values, therefore, it is suggested to leave these parameters untouched.  
+reliant on these values, therefore, it is suggested to leave these parameters untouched.    
 
 
-
-
+Inside the while loop, the following tasks are continuously polled:  
+* []() asd
+* []()asd
+* []() asd
 <!-- CODE DESCRIPTION -->
 ## Code description
 
