@@ -13,11 +13,18 @@ Group project of the subject 41014 Sensors and Control for Mechatronic Systems a
 
 <!-- GETTING STARTED -->
 ## Getting Started
+To use the code, keep both main.m and ThresholdGenerator.m files in the same directory
+and run main.m when connected to the real Turtlebot.
 
 
+<!-- MAIN CODE STRUCTURE -->
+## Main Code Structure
+The main code is structured so that all variables that govern the outcome of the execution 
+can be easily modified on the very top (before while loop). This included Camera parameters, 
+velocity gain and thresholds (i.e., transition, stop distances & boundary widths). However, 
+modifying variables under "Fixed" region is ill-advised as the entire code was developed heavily 
+reliant on these values, therefore, it is suggested to leave these parameters untouched.  
 
-<!-- CODE DESCRIPTION -->
-## Code description
 
 
 
