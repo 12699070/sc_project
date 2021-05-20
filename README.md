@@ -40,13 +40,16 @@ Inside the while loop, the following tasks are continuously polled:
 * []() Marker (April tag) detection per each image received
 * []() Front distance of the Turtlebot from the Laser scanner  
 
-**NOTE: To reduce program execution latency when receiving images, compressed format was chosen when 
+
+As the loop pumping data from 3 tasks listed above, the P-controller implemented inside this loop will 
+combine those data to make the following decisions:  
+* []() Switching stage (Coarse/Finer approach)
+* []() Applying thresholds (Wide/Narrow boundary)
+
+<!-- ADDITIONAL NOTES -->
+## Additional notes
+* []() To reduce program execution latency when receiving images, compressed format was chosen when 
 subscribing to image topic.  
-
-As the loop pumping data from the tasks listed above, the control system 
-
-<!-- CODE DESCRIPTION -->
-## Code description
-
-
+* []() Try/catch statement was implemented in the main loop to handle various errors (i.e., when the marker is 
+not detected). Thus, prevent the Turtlebot from moving uncontrollably.
 
