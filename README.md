@@ -10,6 +10,10 @@ Group project of the subject 41014 Sensors and Control for Mechatronic Systems a
 | Mohammad Sulaiman Khan | 13092489  | Marker detection |  40%  |
 |  Huy Nhat Minh Nguyen  | 13734569  |       n/a        |  0%   |
 
+<!-- STAGE SETUP -->
+## Stage Setup
+**NOTE: Image available on GitHub page only
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
