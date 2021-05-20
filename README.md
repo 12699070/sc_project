@@ -10,10 +10,16 @@ Group project of the subject 41014 Sensors and Control for Mechatronic Systems a
 | Mohammad Sulaiman Khan | 13092489  | Marker detection |  40%  |
 |  Huy Nhat Minh Nguyen  | 13734569  |       n/a        |  0%   |
 
+
+
+
 <!-- STAGE SETUP -->
 ## Stage Setup
 **NOTE: Image may be available on GitHub page only
 ![Untitled](https://user-images.githubusercontent.com/41610114/118976894-e6aab400-b9b8-11eb-8844-5da6599596ed.png)
+
+
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -29,6 +35,7 @@ No other ROS packages required on the remote PC.
 When a ROS communication channel between the remote PC and the Turtlebot is established, 
 main.m can then be executed that allows the Turtlebot to perform "Following a straight-line by
 observing the marker" task.  
+
 
 
 
@@ -69,6 +76,10 @@ The whole process is repeated until the following conditions occur:
 * []() Stop distance reached
 * []() Marker no longer detected  
 
+
+
+
+
 <!-- ADDITIONAL NOTES -->
 ## Additional notes
 * []() To reduce program execution latency when receiving images, compressed format was chosen when 
@@ -77,6 +88,10 @@ subscribing to image topic.
 not detected). Thus, prevent the Turtlebot from moving uncontrollably.
 * []() Camera parameters are critical to ensure correct boundary for the marker is applied onto the image. User 
 is expected to input correct width and height of the camera pixel size if they plan to not use the RealSense R200.
+
+
+
+
 
 <!-- DEMO VIDEO -->
 ## Demo Video
