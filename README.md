@@ -36,9 +36,15 @@ reliant on these values, therefore, it is suggested to leave these parameters un
 
 
 Inside the while loop, the following tasks are continuously polled:  
-* []() asd
-* []()asd
-* []() asd
+* []() Image data from the RealSense camera
+* []() Marker (April tag) detection per each image received
+* []() Front distance of the Turtlebot from the Laser scanner  
+
+**NOTE: To reduce program execution latency when receiving images, compressed format was chosen when 
+subscribing to image topic.  
+
+As the loop pumping data from the tasks listed above, the control system 
+
 <!-- CODE DESCRIPTION -->
 ## Code description
 
