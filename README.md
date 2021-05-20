@@ -28,7 +28,7 @@ Display messages published to a topic: rostopic echo /topic_name
 -----------------------
 OpenCV
 cv_bridge tutorial:  http://wiki.ros.org/cv_bridge/Tutorials  
-
+Contour Features
 
 -----------------------
 Tasks
