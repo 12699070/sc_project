@@ -3,11 +3,11 @@ Group project of the subject 41014 Sensors and Control for Mechatronic Systems a
 <!-- CONTRIBUTORS -->
 ## Contributors
 Group 6:  
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-
+|          Name       	  | 	ID    | Code contributed | Total |
+| ---------------------- | --------- | ---------------- |-------|
+|     Sy Duy Nguyen 	  | 12699070  |     Control      |  60%  |
+| Mohammad Sulaiman Khan | 13092489  | Marker detection |  40%  |
+|  Huy Nhat Minh Nguyen  | 13734569  |       n/a        |  0%   |
 
 <!-- GETTING STARTED -->
 ## Getting Started
