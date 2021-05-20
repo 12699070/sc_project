@@ -16,9 +16,16 @@ Group project of the subject 41014 Sensors and Control for Mechatronic Systems a
 To use the code, user must keep both main.m and ThresholdGenerator.m files in the same directory
 (on the remote PC).  
 
+The following toolboxes are required to execute this code on MATLAB:  
+* []() ROS Toolbox (to send/receive ROS messages from Turtlebot)
+* []() Computer Vision Toolbox (to detect April tag markers)  
+
+No other ROS packages required.  
+
 When a ROS communication channel between the remote PC and the Turtlebot is established, 
-main.m can then be executed to allow the Turtlebot to perform "Following a straight-line by
-observing the marker" task.
+main.m can then be executed that allows the Turtlebot to perform "Following a straight-line by
+observing the marker" task.  
+
 
 
 <!-- MAIN CODE STRUCTURE -->
